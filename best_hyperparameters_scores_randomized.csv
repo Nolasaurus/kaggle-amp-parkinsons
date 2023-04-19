@@ -1,0 +1,5 @@
+target_variable,best_parameters,best_score
+updrs_1,"{'seed': 33, 'reg_alpha': 5, 'objective': 'reg:squarederror', 'n_estimators': 500, 'max_depth': 6, 'learning_rate': 0.075}",0.20347305199972351
+updrs_2,"{'seed': 33, 'reg_alpha': 10, 'objective': 'reg:squarederror', 'n_estimators': 1000, 'max_depth': 4, 'learning_rate': 0.075}",0.26859376214813546
+updrs_3,"{'seed': 33, 'reg_alpha': 10, 'objective': 'reg:squarederror', 'n_estimators': 1000, 'max_depth': 4, 'learning_rate': 0.075}",0.2736083083807153
+updrs_4,"{'seed': 33, 'reg_alpha': 10, 'objective': 'reg:squarederror', 'n_estimators': 750, 'max_depth': 3, 'learning_rate': 0.075}",0.14217900383318588
